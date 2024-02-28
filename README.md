@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm ReiRei</h1>
-<h3 align="center">A passionate frontend developer/ in-training Backend developer from NYC</h3>
+<h3 align="center">A passionate Frontend Developer/ in-training Backend Developer from NYC</h3>
 
-- 🌱 I’m currently learning **Backend Development, Angular framework**
+- 🌱 I’m currently learning **Backend Development and Angular framework**
 
 - 📫 How to reach me **rei.acee@gmail.com**
 
