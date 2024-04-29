@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm ReiRei</h1>
+<h1 align="center">Hello 👋, I'm Rei</h1>
 <h3 align="center">A passionate Frontend Developer/ in-training Backend Developer from NYC</h3>
 
 - 🌱 I’m currently learning **Backend Development and Angular framework**
